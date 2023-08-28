@@ -22,3 +22,5 @@ In this sort, the alogrithm considers each element in the unsorted part of the l
 Otherwise, it is swapped with the previous element, and the process continues until the current element is in its correct position. This is repeated for each element in the unsorted part of the list, until the entire list is sorted.
 
 To use the provided function, you must include the provided  source and header filea in your program. Then you can call the function by passing a pointer to the head of your doubly linked list. The function will tranverse the list and swap the nodes to sort the list, without modifying the values in the nodes. Finally, the function will print the sorted list.
+
+The time complexity of this tyoe of alogrithm depends on the order of the elements in the list. In the best case, when the list is already sorted, the alogrithm will take O(n) time to sort the list, where n is the number of elements in the list. In the average case, the alogrithm will take O(n^2) time to sort the list, since it may need to traverse and swap elements multiple times to achieve the sorted order.
