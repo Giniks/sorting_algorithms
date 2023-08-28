@@ -31,4 +31,7 @@ Selection Sort for Intefer Arrays
 This sorting Alogrithm finds the minimum element in the unsorted part of the array and swaps it with the first element in that part. This process is repeated until the entire array is sorted. This alogrithm is implemented in the function selection sort, which takes an integer array and its size as arguments. The function return the sorted array.
 
 
-To use the selection sort function, first include the provided source code and header files in your program. Then, call the function, by passing the integer array and its size as arguments. Finally, the function will sort the array and print the sorted
+To use the selection sort function, first include the provided source code and header files in your program. Then, call the function, by passing the integer array and its size as arguments. Finally, the function will sort the array and print the sorted array. Keep in mind that the program will also print that array after each swap operation for visualization.
+
+
+The best-case time complexity of the selection sort Alogrithm is O(n^2), wherw n is the number of elements in the array. This is because the alogrithm performs the same number of com
