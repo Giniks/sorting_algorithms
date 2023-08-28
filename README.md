@@ -10,7 +10,8 @@ In this project, we will review different concept of sorting alogrithm and imple
 2. clone repo to yoyr local machine.
 
 
-
 Project Description
+
+Bubble Sort Alogrithm: This works by repeatedly comparinf adjacent elements in a list and swapping them if they are out of order. The alogrithm gets its name from the way that smaller elements "bubble" to the top of the list as the alogrithm iterates. This makes bubble sort easy to understand and implement, but it's not the most efficient sorting alogrithm.
 
 
