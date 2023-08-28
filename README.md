@@ -17,4 +17,6 @@ Bubble Sort Alogrithm: This works by repeatedly comparinf adjacent elements in a
 
 Insertion Sort Alogrithm for Doubly linked List.
 
-In this sort, the alogrithm 
+In this sort, the alogrithm considers each element in the unsorted part of the list, one at a time. For each element, it compares it to the element that come before it in the sorted part of the list. If the current element is smaller than the previous element, it stays in place.
+
+Otherwise, it is swapped with the previous element 
