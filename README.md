@@ -36,4 +36,6 @@ To use the selection sort function, first include the provided source code and h
 
 The best-case time complexity of the selection sort Alogrithm is O(n^2), wherw n is the number of elements in the array. This is because the alogrithm performs the same number of comparisons and the swaps regardless of initial order of the elements.
 
-In average case, the time complexity is also O(n^2), due to alogrithms reapeated
+In average case, the time complexity is also O(n^2), due to alogrithms reapeated search for the minimum element.
+
+
