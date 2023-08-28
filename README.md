@@ -34,4 +34,6 @@ This sorting Alogrithm finds the minimum element in the unsorted part of the arr
 To use the selection sort function, first include the provided source code and header files in your program. Then, call the function, by passing the integer array and its size as arguments. Finally, the function will sort the array and print the sorted array. Keep in mind that the program will also print that array after each swap operation for visualization.
 
 
-The best-case time complexity of the selection sort Alogrithm is O(n^2), wherw n is the number of elements in the array. This is because the alogrithm performs the same number of com
+The best-case time complexity of the selection sort Alogrithm is O(n^2), wherw n is the number of elements in the array. This is because the alogrithm performs the same number of comparisons and the swaps regardless of initial order of the elements.
+
+In average case, the time complexity is also O(n^2), due to alogrithms reapeated
