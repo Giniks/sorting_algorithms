@@ -6,4 +6,11 @@ In this project, we will review different concept of sorting alogrithm and imple
 
 # instructions. 
 
+1. Ensure there is a compiler installed.
+2. clone repo to yoyr local machine.
+
+
+
+Project Description
+
 
