@@ -1,23 +1,20 @@
-Project Title: C - Sorting algorithms & Big O
+# Project Title: C - Sorting algorithms & Big O
 
-Overview
-
-In this project, we will review different concept of sorting alogrithm and implementation through worst, average and best case scenario. We search and merge through linear or binary method, complexity( time and space), and runtime(Big O notation).
-
-# instructions. 
-
-1. Ensure there is a compiler installed.
-2. clone repo to yoyr local machine.
+## Overview
 
 
-Project Description
+## Instructions 
 
-Bubble Sort Alogrithm: This works by repeatedly comparinf adjacent elements in a list and swapping them if they are out of order. The alogrithm gets its name from the way that smaller elements "bubble" to the top of the list as the alogrithm iterates. This makes bubble sort easy to understand and implement, but it's not the most efficient sorting alogrithm.
+1. Ensure a compiler is installed.
+2. Clone the repository (Sorting algorithms) on your local machine.
 
 
-Insertion Sort Alogrithm for Doubly linked List.
+## Project Description
 
-In this sort, the alogrithm considers each element in the unsorted part of the list, one at a time. For each element, it compares it to the element that come before it in the sorted part of the list. If the current element is smaller than the previous element, it stays in place.
+- **Bubble Sort Alogrithm:** This works by repeatedly comparinf adjacent elements in a list and swapping them if they are out of order. The alogrithm gets its name from the way that smaller elements "bubble" to the top of the list as the alogrithm iterates. This makes bubble sort easy to understand and implement, but it's not the most efficient sorting alogrithm.
+
+
+- **Insertion Sort Alogrithm:** In this sort, the alogrithm considers each element in the unsorted part of the list, one at a time. For each element, it compares it to the element that come before it in the sorted part of the list. If the current element is smaller than the previous element, it stays in place.
 
 Otherwise, it is swapped with the previous element, and the process continues until the current element is in its correct position. This is repeated for each element in the unsorted part of the list, until the entire list is sorted.
 
@@ -26,9 +23,7 @@ To use the provided function, you must include the provided  source and header f
 The time complexity of this tyoe of alogrithm depends on the order of the elements in the list. In the best case, when the list is already sorted, the alogrithm will take O(n) time to sort the list, where n is the number of elements in the list. In the average case, the alogrithm will take O(n^2) time to sort the list, since it may need to traverse and swap elements multiple times to achieve the sorted order.
 
 
-Selection Sort for Intefer Arrays
-
-This sorting Alogrithm finds the minimum element in the unsorted part of the array and swaps it with the first element in that part. This process is repeated until the entire array is sorted. This alogrithm is implemented in the function selection sort, which takes an integer array and its size as arguments. The function return the sorted array.
+- **Selection Sort Algorithm:** This sorting Alogrithm finds the minimum element in the unsorted part of the array and swaps it with the first element in that part. This process is repeated until the entire array is sorted. This alogrithm is implemented in the function selection sort, which takes an integer array and its size as arguments. The function return the sorted array.
 
 
 To use the selection sort function, first include the provided source code and header files in your program. Then, call the function, by passing the integer array and its size as arguments. Finally, the function will sort the array and print the sorted array. Keep in mind that the program will also print that array after each swap operation for visualization.
@@ -41,15 +36,10 @@ In average case, the time complexity is also O(n^2), due to alogrithms reapeated
 Finally, the worst case time complexity is also O(n^2), which occurs when the array is in reverse order.
 
 
-Acknowledgement
-
-Thanks to Alx community
-
-
-Authours
-
-Name Ginika Elizabeth Nna
-
-Nmae Good/ness Akoma James
+## Acknowledgement
+Thanks to ALX community.
 
 
+## Authurs
+- Ginika Elizabeth Nna
+- Akoma Goodness James
