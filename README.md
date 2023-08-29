@@ -39,3 +39,17 @@ The best-case time complexity of the selection sort Alogrithm is O(n^2), wherw n
 In average case, the time complexity is also O(n^2), due to alogrithms reapeated search for the minimum element.
 
 Finally, the worst case time complexity is also O(n^2), which occurs when the array is in reverse order.
+
+
+Acknowledgement
+
+Thanks to Alx community
+
+
+Authours
+
+Name Ginika Elizabeth Nna
+
+Nmae Good/ness Akoma James
+
+
