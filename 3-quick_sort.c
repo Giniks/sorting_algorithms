@@ -2,10 +2,9 @@
 
 /**
  * quick_sort - Sorts an array of integers in ascending order.
- *              Implemets the Quick sort algorithm
+ *              Implements the Quick sort algorithm.
  * @array: Array
  * @size: Array size
- *
  * Return: Void.
  */
 void quick_sort(int *array, size_t size)
